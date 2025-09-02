@@ -19,4 +19,5 @@ Powell's Point, NC
 Ride Attendant
 June 2018 - August 2018
 
-<img src="/img/Appalachian_State_University_logo.png" width="150"/>
+
+<img src="img/Appalachian_State_University_logo.png" width="150"/>
